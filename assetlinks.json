@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.spectratech.soepay.dummy",
+    "sha256_cert_fingerprints":
+    ["6F:13:81:4E:E4:24:61:74:09:43:79:2D:14:52:7A:7C:85:1C:B3:FF:99:6A:DF:27:07:69:19:40:54:AD:A4:BC"]
+  }
+}
